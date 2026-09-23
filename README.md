@@ -31,6 +31,9 @@ Cuando uno de los competidores alcanza el **100 %**, se declara ganador de la ca
 
 Aplicar conceptos de programación, actualización dinámica de elementos y manejo de eventos mediante una simulación sencilla y visual.
 
+## Vista 
+!interfaz del proyecto(<img width="978" height="539" alt="image" src="https://github.com/user-attachments/assets/7451750b-65c1-444d-8448-911986a78e30" />
+
 ## 👨‍💻 Autor
 
 **Oscar**
@@ -38,5 +41,4 @@ Aplicar conceptos de programación, actualización dinámica de elementos y mane
 Repositorio: [portafolio-oscar](https://github.com/Osxar2025/portafolio-oscar)
 ````
 
-<img width="978" height="539" alt="image" src="https://github.com/user-attachments/assets/90304630-e6dc-4615-bfb9-69abca244f9a" />
 
