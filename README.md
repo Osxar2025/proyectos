@@ -2,7 +2,7 @@
 
 Este pequeño proyecto fue desarrollado como respuesta a una actividad institucional.
 
-## 🎯 Descripción
+## Descripción
 
 La actividad consistía en crear varias barras de progreso que simularan una carrera de caballos.
 
@@ -10,7 +10,7 @@ Para resolverla, se desarrollaron cuatro barras de progreso que avanzan de forma
 
 Cuando uno de los competidores alcanza el **100 %**, se declara ganador de la carrera y aparece una alerta indicando el resultado.
 
-## ✨ Características
+## Características
 
 - 📊 Barras de progreso animadas.
 - 🎲 Avance aleatorio para cada competidor.
@@ -27,14 +27,14 @@ Cuando uno de los competidores alcanza el **100 %**, se declara ganador de la ca
 5. Se muestra una alerta con el nombre del ganador.
 6. La carrera puede reiniciarse para volver a competir.
 
-## 📌 Objetivo
+## Objetivo
 
 Aplicar conceptos de programación, actualización dinámica de elementos y manejo de eventos mediante una simulación sencilla y visual.
 
 ## Vista 
 interfaz del proyecto(<img width="978" height="539" alt="image" src="https://github.com/user-attachments/assets/7451750b-65c1-444d-8448-911986a78e30" />
 
-## 👨‍💻 Autor
+## Autor
 
 **Oscar**
 
